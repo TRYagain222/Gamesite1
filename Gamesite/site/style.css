@@ -1,0 +1,31 @@
+body {
+    background-color: #e75858; /* Змінюємо колір фону */
+    font-family: Arial, sans-serif;
+}
+
+/* Стилі для заголовку */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Стилі для навігаційного меню */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
